@@ -1,13 +1,13 @@
 #include<stdio.h>
 
 int main(){
-    // float PI;
-    // int r;
-    // PI=3.14;
-    // printf("enter value R => ");
-    // scanf("%d",&r);
+    float PI;
+    int r;
+    PI=3.14;
+    printf("enter value R => ");
+    scanf("%d",&r);
 
-    // printf("%2f",PI*r*r);
+    printf("%2f",PI*r*r);
 
 
     // int l;
